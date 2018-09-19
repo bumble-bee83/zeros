@@ -502,4 +502,5 @@ describe('Zeros', () => {
     const zerosCount = getZerosCount(95670627);
     assert.equal(zerosCount, 23917650);
   });
+  
 });
